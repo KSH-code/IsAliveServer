@@ -1,0 +1,23 @@
+{
+    "name": "isaliveserver",
+    "version": "1.0.0",
+    "description": "You must check the your web server is alive",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KSH-code/IsAliveServer.git"
+    },
+    "keywords": [
+        "Node.js"
+    ],
+    "author": "KSH-Code <tjdgnsqn133@gmail.com> (http://github.com/ksh-code)",
+    "bugs": {
+        "url": "https://github.com/KSH-code/IsAliveServer/issues",
+        "email": "tjdgnsqn133@gmail.com"
+    },
+    "homepage": "https://github.com/KSH-code/IsAliveServer#readme",
+    "license": "MIT"
+}
