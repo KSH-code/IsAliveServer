@@ -7,6 +7,9 @@
         "type": "git",
         "url": "git+https://github.com/KSH-code/VerifyWebServer.git"
     },
+    "scripts": {
+        "start": "node index.js"
+    },
     "keywords": [
         "Node.js"
     ],
