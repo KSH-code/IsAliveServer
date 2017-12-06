@@ -1,2 +1,6 @@
-# IsAliveServer
-Check the your web server is alive
+# How To Use
+Edit hostname and port of **options.json**
+
+```
+npm start
+```
