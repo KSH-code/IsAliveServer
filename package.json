@@ -1,23 +1,27 @@
 {
-    "name": "verifywebserver",
-    "version": "1.0.0",
-    "description": "You must check the your web server is alive",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/KSH-code/VerifyWebServer.git"
-    },
-    "scripts": {
-        "start": "node index.js"
-    },
-    "keywords": [
-        "Node.js"
-    ],
-    "author": "KSH-Code <tjdgnsqn133@gmail.com> (http://github.com/ksh-code)",
-    "bugs": {
-        "url": "https://github.com/KSH-code/VerifyWebServer/issues",
-        "email": "tjdgnsqn133@gmail.com"
-    },
-    "homepage": "https://github.com/KSH-code/VerifyWebServer#readme",
-    "license": "MIT"
+  "name": "verifywebserver",
+  "version": "1.0.0",
+  "description": "You must check the your web server is alive",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSH-code/VerifyWebServer.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "KSH-Code <tjdgnsqn133@gmail.com> (http://github.com/ksh-code)",
+  "bugs": {
+    "url": "https://github.com/KSH-code/VerifyWebServer/issues",
+    "email": "tjdgnsqn133@gmail.com"
+  },
+  "homepage": "https://github.com/KSH-code/VerifyWebServer#readme",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^4.4.0",
+    "nodemailer-smtp-transport": "^2.7.4"
+  }
 }
